@@ -1,0 +1,3 @@
+a= input("Wat is uw voornaam? ")
+b= input("Wat is uw achternaam? ")
+print ("Uw volledigenaam is:",a + " " +b)
